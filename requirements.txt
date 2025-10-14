@@ -1,0 +1,13 @@
+# Core ML libraries
+pandas
+numpy
+scikit-learn
+joblib
+
+# Visualization
+matplotlib
+seaborn
+
+# Jupyter (optional, for notebooks)
+jupyter
+ipykernel

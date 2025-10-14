@@ -1,0 +1,23 @@
+
+    ============================================================
+    HOUSE PRICE PREDICTION MODEL - PERFORMANCE REPORT
+    ============================================================
+
+    Model Metrics:
+    --------------
+    RMSE:                   36.9029 lakhs
+    MAE:                    21.5446 lakhs
+    R²:                     0.5503
+    MAPE:                   34.76%
+    Negative Predictions:   0 (0.00%)
+
+    Interpretation:
+    ---------------
+    - Average error: 21.54 lakhs
+    - Explains 55.0% of price variance
+    - Typical prediction is within 34.8% of actual price
+
+    Status: ✓ PRODUCTION READY
+
+    ============================================================
+    
