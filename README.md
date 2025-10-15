@@ -2,7 +2,7 @@
 
 ## **Project Defense & Technical Justification**
 
-*Written by: [Your Name]*  
+*Written by: JOHN EVANS OKYERE*  
 *Date: October 14, 2025*
 
 ---
